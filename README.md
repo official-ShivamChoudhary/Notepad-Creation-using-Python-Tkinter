@@ -1,9 +1,11 @@
 # NOTPAD-CREATION-USING-PYTHON-PROGRAMMING
+
 # Create a New File
 ![Create a New file](https://user-images.githubusercontent.com/72095437/173558798-8931a319-e86f-4dc0-bbf2-81bc0acdf76d.png)
 
-# Open the Text File (ctrl+n)
+# Open the Text File (ctrl+o)
 ![Open the Text File](https://user-images.githubusercontent.com/72095437/173559306-715f589d-0972-4bc2-a1b3-8f20bc96da24.png)
+
 # Save The Text File in Notepad (ctrl+s)
 ![Save the Text File in Notepad](https://user-images.githubusercontent.com/72095437/173560175-a80152d1-3103-42d3-943b-a84e8c226c49.png)
 
